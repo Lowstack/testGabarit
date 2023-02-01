@@ -1,5 +1,7 @@
 # memoire-ulaval
 
+Ça marche tu quand je commit ça?
+
 memoire-ulaval est un gabarit .Rmd pour mémoire de maîtrise conforme aux normes de la [Faculté des études supérieures et postdoctorales](https://www.fesp.ulaval.ca/memoires-et-theses) de l'Université Laval.
 
 En même temps de produire un pdf, le knit du fichier `index.Rmd` produit aussi un fichier LaTeX. Ce fichier LaTeX peut être transmis en même temps que le dépôt de votre mémoire.
